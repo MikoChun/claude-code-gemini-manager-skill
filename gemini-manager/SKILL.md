@@ -1,6 +1,6 @@
 ---
 name: gemini-manager
-description: This skill should be used when the user wants Claude Code to act purely as a manager/architect while Gemini CLI does all the coding work. Claude Code drives Gemini like an intern - issuing tasks, reviewing output, requesting fixes - but never writes code itself. Use when user says "manage gemini", "architect mode", "drive gemini", or wants to delegate all implementation to Gemini.
+description: Enables Claude Code to function as a manager/architect while Gemini CLI performs all coding work. Claude Code delegates tasks to Gemini as an intern - issuing instructions, reviewing output, and requesting fixes - without writing any code directly. Use when users request "manage gemini", "architect mode", "drive gemini", or want to delegate all implementation to Gemini.
 allowed-tools:
   - Bash
   - Read
