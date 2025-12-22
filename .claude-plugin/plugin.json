@@ -1,0 +1,8 @@
+{
+  "name": "gemini-manager",
+  "description": "Enables Claude Code to manage Gemini CLI as an intern. Claude acts as manager/architect while Gemini does all coding work.",
+  "version": "1.0.0",
+  "author": {
+    "name": "alchemiststudiosDOTai"
+  }
+}
