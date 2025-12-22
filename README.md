@@ -31,5 +31,24 @@ Say things like:
 
 ## Installation
 
-As a project skill: Clone this repo
-As a personal skill: Copy `gemini-manager/` to `~/.claude/skills/`
+### As a Plugin (Recommended)
+
+```bash
+# Install via plugin command
+/plugin install alchemiststudiosDOTai/claude-code-gemini-manager-skill
+```
+
+### Manual Installation
+
+Clone the repo and copy to your skills directory:
+
+```bash
+# Clone the repo
+git clone https://github.com/alchemiststudiosDOTai/claude-code-gemini-manager-skill.git
+
+# For personal skill (available in all projects)
+cp -r claude-code-gemini-manager-skill/skills/gemini-manager ~/.claude/skills/
+
+# For project skill (available in this project only)
+cp -r claude-code-gemini-manager-skill/skills/gemini-manager ./.claude/skills/
+```
