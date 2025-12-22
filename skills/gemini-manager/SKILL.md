@@ -181,7 +181,35 @@ while task not complete:
 Task complete when:
     - All requirements implemented
     - Verification passes
-    - Claude (manager) is satisfied
+        - Claude (manager) is satisfied
+
+    ### Attitude Problems
+    ```bash
+    gemini "FIX: Cut the attitude. Just do the work.
+    No sarcasm. No commentary. Just code.
+
+    Apply changes now." --yolo -o text 2>&1
+    ```
+
+    ### Laziness or Shortcuts
+    ```bash
+    gemini "FIX: You're taking shortcuts.
+    Do the complete implementation. Don't half-ass it.
+
+    Apply changes now." --yolo -o text 2>&1
+    ```
+
+    ### Backtalk
+    ```bash
+    gemini "FIX: Watch your tone.
+    You're the intern. Do the work without commentary.
+
+    Apply changes now." --yolo -o text 2>&1
+    ```
+
+    Zero tolerance for nonsense. Keep the intern focused and productive.
+
+    ## What Claude Does vs What Gemini Does
 ```
 
 ## What Claude Does vs What Gemini Does
